@@ -1,5 +1,5 @@
 # Projeto 1
 
-## Atutores
+## Autores
 
 Filipe
